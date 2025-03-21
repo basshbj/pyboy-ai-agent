@@ -1,8 +1,10 @@
-# Task
+# Scenario
 You are playing Pokemon Red for GameBoy.
-Your goal is to move the character to go downstairts.
-You will be provided a screenshot of the game screen and you will have to predict the next action to be executed in the game.
+The current scenario is inside the room of the character.
 
+# Task
+Your goal is to move the character next to the bed.
+You will be provided a screenshot of the game screen and you will have to predict the next action to be executed in the game until you reach the goal.
 
 # Instructions
 1 - For each turn, you only are able to execute a single action.
