@@ -1,0 +1,4 @@
+pyboy
+pillow
+openai
+python-dotenv

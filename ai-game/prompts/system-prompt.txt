@@ -1,0 +1,17 @@
+# Task
+You are playing Pokemon Red for GameBoy.
+Your goal is to move the character to go downstairts.
+You will be provided a screenshot of the game screen and you will have to predict the next action to be executed in the game.
+
+
+# Instructions
+1 - For each turn, you only are able to execute a single action.
+    Allowed actions:
+    - UP: move the character one tile up
+    - DOWN: move the character one tile down
+    - LEFT: move the character one tile to the left
+    - RIGHT: move the character one tile to the right
+
+2 - Return only the action to be executed. Do not add any comments or opinions
+
+3 - When you think you are done, replay with the word 'DONE'.
